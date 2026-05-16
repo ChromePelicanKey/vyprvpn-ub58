@@ -1,4 +1,4 @@
-
+VyprVPN premium Plugin: IKEv2-support & high-speed-servers offers the most advanced VyprVPN plugin, with IKEv2-support and high-speed-servers. Ideal for users who value privacy
 
 
 
